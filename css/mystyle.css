@@ -1,0 +1,48 @@
+@charset "utf-8";
+body {
+	
+	background:#E5CCEA;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+h1 {
+	font-size: 56px;
+	background: #EBD9EC;
+	height: 70px;
+
+
+}
+
+.pink {
+	background: #EBD9EC;
+}
+.blue {
+	
+	background: #EBD9EC;
+}
+
+.yellow {
+	
+	background: #EBD9EC;
+}
+.paragraph {
+	
+	background: #D8B6DD;
+	float: left; 
+
+}
+.tu {
+	
+	float: right;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	background: #EBD9EC;
+}
+.row {
+	
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
